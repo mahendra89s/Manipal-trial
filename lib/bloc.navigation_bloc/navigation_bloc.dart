@@ -14,7 +14,7 @@ enum NavigationEvents {
   InstructionManualClickedEvent,
   GovernmentSchemesClickedEvent,
   EmergencyServicesClickedEvent,
-  ProfileClickedEvent
+  ProfileClickedEvent,
 }
 
 abstract class NavigationStates {}
