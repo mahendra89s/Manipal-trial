@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\Manipal Hackthon\\Manipal-Hackathon\\Manipal-Hackathon-master\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-si\\values-si.xml",
+            "outputFile": "C:\\Users\\Sutar\\Desktop\\Manipal-Hackathon\\Manipal-Hackathon-master\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-si\\values-si.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Sutar\\.gradle\\caches\\transforms-2\\files-2.1\\9cfceed0b61a1f400c8197fbccc947d5\\jetified-play-services-basement-17.0.0\\res\\values-si\\values.xml",

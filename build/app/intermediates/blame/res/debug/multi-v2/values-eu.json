@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\Manipal Hackthon\\Manipal-Hackathon\\Manipal-Hackathon-master\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-eu\\values-eu.xml",
+            "outputFile": "C:\\Users\\Sutar\\Desktop\\Manipal-Hackathon\\Manipal-Hackathon-master\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-eu\\values-eu.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Sutar\\.gradle\\caches\\transforms-2\\files-2.1\\dfda874e59ae708b9dea8d783cda1c4f\\play-services-base-17.0.0\\res\\values-eu\\values.xml",
