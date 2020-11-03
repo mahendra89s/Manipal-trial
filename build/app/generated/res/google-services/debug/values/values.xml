@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">286800784725-1dco42rrrdh32u7uofk1n2abeeddb137.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://calmity-93826.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">286800784725</string>
+    <string name="google_api_key" translatable="false">AIzaSyDZq2B9VPb6IH8XfvrO0fIv198YEFP28JI</string>
+    <string name="google_app_id" translatable="false">1:286800784725:android:fa0026e890792ab88c13dc</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDZq2B9VPb6IH8XfvrO0fIv198YEFP28JI</string>
+    <string name="google_storage_bucket" translatable="false">calmity-93826.appspot.com</string>
+    <string name="project_id" translatable="false">calmity-93826</string>
+</resources>

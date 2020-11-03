@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "286800784725",
+    "firebase_url": "https://calmity-93826.firebaseio.com",
+    "project_id": "calmity-93826",
+    "storage_bucket": "calmity-93826.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:286800784725:android:fa0026e890792ab88c13dc",
+        "android_client_info": {
+          "package_name": "com.lucifer.calmity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "286800784725-1dco42rrrdh32u7uofk1n2abeeddb137.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZq2B9VPb6IH8XfvrO0fIv198YEFP28JI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "286800784725-1dco42rrrdh32u7uofk1n2abeeddb137.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
